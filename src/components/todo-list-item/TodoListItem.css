@@ -1,0 +1,9 @@
+
+.todo-input-isEdit {
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+.todo-input:focus {
+    outline: none;
+}
